@@ -1,0 +1,17 @@
+{
+  "name": "tessel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tessel run app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ambient-attx4": "^0.2.5",
+    "audio-vs1053b": "^0.2.0",
+    "audio-vs1053b-textspeech": "0.0.3"
+  }
+}
